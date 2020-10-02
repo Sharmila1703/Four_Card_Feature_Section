@@ -1,2 +1,1 @@
-# Four_Card_Feature_Section
-four card feature section
+# FOUR_CARD_FEATURE_SECTION
